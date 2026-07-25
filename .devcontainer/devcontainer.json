@@ -1,6 +1,6 @@
 {
     "name": "EEEN11202 devcontainer",
-    "image": "ghcr.io/uom-eee-eeen11202/dockerfile:latest",
+    "image": "ghcr.io/uom-eee-eeen11202/dockerfile:2526.6",
     //"runArgs": ["--platform=linux/arm64"],
     "capAdd": ["SYS_PTRACE"],
     "securityOpt": ["seccomp=unconfined"],
